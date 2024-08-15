@@ -1,0 +1,21 @@
+{
+  "name": "Minha Localização",
+  "short_name": "Localização",
+  "description": "Um aplicativo para verificar e enviar sua localização.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FFA500",
+  "icons": [
+    {
+      "src": "/icon/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
